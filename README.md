@@ -1,0 +1,1 @@
+# App-Insights-for-ASP-NET-CORE
